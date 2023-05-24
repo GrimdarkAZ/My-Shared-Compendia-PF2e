@@ -18,7 +18,7 @@
   "packs": [
     {
       "name": "adventures",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Adventures (shared)",
       "path": "./packs/adventures.db",
       "module": "my-shared-compendia",
@@ -26,7 +26,7 @@
     },
     {
       "name": "actors",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Actors (shared)",
       "path": "./packs/actors.db",
       "module": "my-shared-compendia",
@@ -34,7 +34,7 @@
     },
     {
       "name": "monsters",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Monsters (shared)",
       "path": "./packs/monsters.db",
       "module": "my-shared-compendia",
@@ -42,7 +42,7 @@
     },
     {
       "name": "items",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Items (shared)",
       "path": "./packs/items.db",
       "module": "my-shared-compendia",
@@ -50,7 +50,7 @@
     },
     {
       "name": "spells",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Spells (shared)",
       "path": "./packs/spells.db",
       "module": "my-shared-compendia",
@@ -58,7 +58,7 @@
     },
     {
       "name": "classes",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Classes (shared)",
       "path": "./packs/classes.db",
       "module": "my-shared-compendia",
@@ -66,7 +66,7 @@
     },
     {
       "name": "subclasses",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Subclasses (shared)",
       "path": "./packs/subclasses.db",
       "module": "my-shared-compendia",
@@ -74,7 +74,7 @@
     },
     {
       "name": "feats",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Feats (shared)",
       "path": "./packs/feats.db",
       "module": "my-shared-compendia",
@@ -82,7 +82,7 @@
     },
     {
       "name": "scenes",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Scenes (shared)",
       "path": "./packs/scenes.db",
       "module": "my-shared-compendia",
@@ -90,7 +90,7 @@
     },
     {
       "name": "JournalEntries",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Journal Entries (shared)",
       "path": "./packs/journalentry.db",
       "module": "my-shared-compendia",
@@ -98,7 +98,7 @@
     },
     {
       "name": "macros",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Macros (shared)",
       "path": "./packs/macro.db",
       "module": "my-shared-compendia",
@@ -106,7 +106,7 @@
     },
     {
       "name": "rolltables",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Roll Tables (shared)",
       "path": "./packs/rolltables.db",
       "module": "my-shared-compendia",
@@ -114,7 +114,7 @@
     },
     {
       "name": "playlist",
-      "system": "dnd5e",
+      "system": "pf2e",
       "label": "Playlist (shared)",
       "path": "./packs/playlist.db",
       "module": "my-shared-compendia",
